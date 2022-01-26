@@ -17,3 +17,4 @@ vector<int> twoSum(vector<int>& nums, int target) {
         ans.push_back(a);
         ans.push_back(b);
         return ans;
+}
